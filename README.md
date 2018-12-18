@@ -53,7 +53,7 @@ Returns a list of [Showtimes](#showtime) for the given movie and theatre on the 
 ```
 
 # Example
-```
+```javascript
 const cineplexScraper = require('cineplex-scraper');
 
 let theatres = [];
